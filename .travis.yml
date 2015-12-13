@@ -1,0 +1,26 @@
+language: python
+env:
+  global:
+  - GH_REF: github.com/ZaPF/ZaPF-App.git
+before_install:
+- openssl aes-256-cbc -K $encrypted_609356078914_key -iv $encrypted_609356078914_iv -in .travis/deploy_key.enc -out .travis/deploy_key -d
+- chmod 600 .travis/deploy_key
+- |
+  eval "$(ssh-agent -s)" &&
+  ssh-add .travis/deploy_key &&
+  git clone -b gh-pages git@github.com:ZaPF/ZaPF-App.git output
+install:
+- pip install pyyaml
+script:
+- mkdir -p output/api
+- python template.py slots.yml ak.yml > output/api/arbeitskreise
+after_success:
+- chmod 600 .travis/deploy_key
+- |
+  eval "$(ssh-agent -s)" &&
+  ssh-add .travis/deploy_key &&
+  cd output &&
+  git config user.name "Travis CI" &&
+  git config user.email "app@zapf.in" &&
+  git commit -am "Deploy to GitHub Pages" &&
+  git push origin gh-pages
