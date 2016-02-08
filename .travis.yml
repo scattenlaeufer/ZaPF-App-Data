@@ -3,7 +3,7 @@ env:
   global:
   - GH_REF: github.com/ZaPF/ZaPF-App.git
 before_install:
-- openssl aes-256-cbc -K $encrypted_609356078914_key -iv $encrypted_609356078914_iv -in .travis/deploy_key.enc -out .travis/deploy_key -d
+- openssl aes-256-cbc -K $deploy_key -iv $deploy_iv -in .travis/deploy_key.enc -out .travis/deploy_key -d
 - chmod 600 .travis/deploy_key
 - |
   eval "$(ssh-agent -s)" &&
