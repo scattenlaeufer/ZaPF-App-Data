@@ -14,6 +14,8 @@ from pprint import pprint
 
 #print(args)
 
+random.seed(22302983740987182348)
+
 site = mwclient.Site('zapf.wiki','/')
 page = site.pages['SoSe16_Arbeitskreise']
 

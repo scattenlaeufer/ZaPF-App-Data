@@ -13,3 +13,7 @@ out = {'arbeitskreise':ak_data,'slots':slot_data}
 json_out = json.dumps(out,sort_keys=True,indent=4)
 
 print(json_out)
+
+if len(sys.argv) == 4:
+	with open(sys.argv[3],'w') as json_file:
+		json_file.write(json_out)

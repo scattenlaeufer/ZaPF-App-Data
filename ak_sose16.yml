@@ -1,94 +1,99 @@
 - name: AK Abbrecherquoten
   responsible: Elli (Berlin)
   room: ' '
-  slotid: AK3
+  slotid: AK2
   url: https://zapf.wiki/SoSe16_AK_Abbrecherquoten
 - name: AK Accounts und Anmeldesystem
   responsible: Fabs (TU Berlin)
   room: ' '
-  slotid: BAK2
+  slotid: AK7
   url: https://zapf.wiki/SoSe16_AK_Accounts
 - name: AK Austausch
   responsible: Thomi (HD)
   room: ' '
-  slotid: AK5
+  slotid: AK2
   url: https://zapf.wiki/SoSe16_AK_Austausch
 - name: AK CHE Zusammenarbeit
   responsible: Thomi (HD)
   room: ' '
-  slotid: AK3
+  slotid: AK5
   url: https://zapf.wiki/SoSe16_AK_CHE_Zusammenarbeit
 - name: ' AK Der StAPF stellt sich vor'
   responsible: "Bj\xF6rn (RWTH),  Karola(UP),  Adriana (HUB),  Jakob (Uni Heidelberg),\
     \ Kathii (GUF)"
   room: ' '
-  slotid: BAK2
+  slotid: BAK1
   url: https://zapf.wiki/SoSe16_AK_Der_StAPF_stellt_sich_vor
 - name: "AK Diplom in Th\xFCringen"
   responsible: Eric (J)
   room: ' '
-  slotid: AK2
+  slotid: AK3
   url: "https://zapf.wiki/SoSe16_AK_Diplom_Th\xFCringen"
 - name: AK Die dreckigen Geheimnisse der ZaPF oder was man in den Tiefen des Wikis
     (nicht) findet
   responsible: "Karola (P), Lukian (W\xFC)"
   room: ' '
-  slotid: BAK2
+  slotid: AK7
   url: https://zapf.wiki/SoSe16_AK_ZaPF-Wiki
 - name: AK Drittmittel versus Zivilklausel
   responsible: Philipp (HUB)
   room: ' '
-  slotid: AK1
+  slotid: AK2
   url: https://zapf.wiki/SoSe16_AK_DrittMittelVSZivilklausel
 - name: AK Ethikmodul
-  responsible: Jenny (FU Berlin)
+  responsible: Jenny (FU Berlin), Jan (FUB)
   room: ' '
-  slotid: AK1
+  slotid: AK6
   url: https://zapf.wiki/SoSe16_AK_Ethikmodul
 - name: AK Exzellenzinitiative
   responsible: Victoria Schemenz (KIT), Martin/Opa (FUB/Alter Sack)
   room: ' '
-  slotid: AK3
+  slotid: AK4
   url: https://zapf.wiki/SoSe16_AK_ExIniIII
 - name: AK Fachschaftsneulinge
   responsible: BuFaTa Philosophie
   room: ' '
-  slotid: AK4
+  slotid: AK1
   url: https://zapf.wiki/SoSe16_AK_Fachschaftsneulinge
 - name: AK Frauenquotenreso
   responsible: "Adriana (HUB), Bj\xF6rn (RWTH), J\xF6rg (FUB)"
   room: ' '
-  slotid: AK4
+  slotid: AK6
   url: https://zapf.wiki/SoSe16_AK_Frauenquotenreso
 - name: "AK GO- und Satzungs\xE4nderung"
   responsible: "Bj\xF6rn (RWTH), J\xF6rg (FUB)"
   room: ' '
-  slotid: AK3
+  slotid: BAK2
   url: https://zapf.wiki/SoSe16_AK_GO_und_Satzungsaenderung
 - name: ' AK Gute Lehre'
   responsible: Margret (<s>LMU</s>FFM)
   room: ' '
-  slotid: AK2
+  slotid: AK5
   url: https://zapf.wiki/SoSe16_AK_Gute Lehre
+- name: ' AK Kompetenzorientierter Physikstudiengang'
+  responsible: Margret (<s>LMU</s>FFM)
+  room: ' '
+  slotid: AK7
+  url: https://zapf.wiki/SoSe16_AK_Kompetenzorientierter_Physikstudiengang
 - name: AK Wissenschaftsethik
   responsible: BuFaTa Philosophie
   room: ' '
-  slotid: AK4
+  slotid: AK6
   url: https://zapf.wiki/SoSe16_AK_Wissenschaftsethik
 - name: AK Internationale Semesterzeiten
   responsible: Christian (Uni Oldenburg)
   room: ' '
-  slotid: BAK1
+  slotid: AK6
   url: https://zapf.wiki/SoSe16_AK_Internationale_Semesterzeiten
 - name: "AK Klausurzulassungen & \xDCbungsbetrieb"
   responsible: "Stefan (Uni K\xF6ln)"
   room: ' '
-  slotid: AK4
+  slotid: AK7
   url: "https://zapf.wiki/SoSe16_AK_Klausurzulassungen_&_\xDCbungsbetrieb"
 - name: AK Lehramt
   responsible: Kai Naumann (TU Darmstadt), Kathii (FFM), Karola (Potsdam)
   room: ' '
-  slotid: AK4
+  slotid: AK3
   url: https://zapf.wiki/SoSe16_AK_Lehramt
 - name: AK Mentoring
   responsible: Mascha (TU Berlin), Susanne (Uni Konstanz)
@@ -98,52 +103,57 @@
 - name: AK MeTaFa
   responsible: ''
   room: ' '
-  slotid: BAK1
+  slotid: AK7
   url: https://zapf.wiki/SoSe16_AK_MeTaFa
 - name: AK NC
   responsible: "Stefan (Uni K\xF6ln)"
   room: ' '
-  slotid: AK1
+  slotid: AK3
   url: https://zapf.wiki/SoSe16_AK_NC
+- name: AK Zivilklausel
+  responsible: "Jan G.(Uni K\xF6ln), Stefan (Uni K\xF6ln)"
+  room: ' '
+  slotid: BAK1
+  url: https://zapf.wiki/SoSe16_AK_Zivilklausel
 - name: "AK Opa erz\xE4hlt vom Krieg"
   responsible: Martin/Opa (FUB/Alter Sack)
   room: ' '
-  slotid: BAK1
+  slotid: AK1
   url: https://zapf.wiki/SoSe16 AK Diplom
 - name: AK Physikalische Praktika
   responsible: Zafer (UP)
   room: ' '
-  slotid: AK7
+  slotid: AK1
   url: https://zapf.wiki/SoSe16_AK_Praktika
 - name: AK Selbstreflektion der ZaPF
   responsible: Karola (Potsdam), Valentin (HU Berlin)
   room: ' '
-  slotid: BAK2
+  slotid: AK6
   url: https://zapf.wiki/SoSe16_AK_Selbstreflektion_der_ZaPF
 - name: "AK Selbstverst\xE4ndnis der alten S\xE4cke"
   responsible: "Tobi (D\xFCsseldorf), Fredi (HH)"
   room: ' '
-  slotid: AK2
+  slotid: AK6
   url: "https://zapf.wiki/SoSe16_AK_Selbstverst\xE4ndnis_der_alten_S\xE4cke"
 - name: AK Student-Lifecycle-Managements
-  responsible: Fabs (TU Berlin)
+  responsible: Fabs (TUB)
   room: ' '
-  slotid: AK4
+  slotid: BAK1
   url: https://zapf.wiki/SoSe16_AK_SLM
 - name: "AK Studienf\xFChrer"
-  responsible: Fabs (TU Berlin)
+  responsible: Fabs (TUB)
   room: ' '
-  slotid: AK3
+  slotid: BAK1
   url: "https://zapf.wiki/SoSe16_AK_Studienf\xFChrer"
 - name: AK Studierende mit Asyl
   responsible: Paddy (Konstanz), Anna Blank (Referentin)
   room: ' '
-  slotid: AK5
+  slotid: AK6
   url: https://zapf.wiki/SoSe16_AK_Studierende_mit_Asyl
 - name: AK Symptompflicht auf Attesten
   responsible: Elli (Berlin)
   room: ' '
-  slotid: AK7
+  slotid: AK6
   url: https://zapf.wiki/SoSe16_AK_Symptompflicht
 - name: "AK Unterst\xFCtzung finanzschwacher Fachschaften"
   responsible: ZaPF e.V.
@@ -153,37 +163,37 @@
 - name: AK Vernetzung der ZaPF-Orgas
   responsible: Kathii (FFM)
   room: ' '
-  slotid: BAK2
+  slotid: AK7
   url: https://zapf.wiki/SoSe16_AK_Vernetzung_ZaPF-Orgas
 - name: "AK Ver\xF6ffentlichung von Drittmittelergebnissen"
   responsible: Martin/Opa (FUB/Alter Sack), Jan (FUB)
   room: ' '
-  slotid: BAK2
+  slotid: AK4
   url: "https://zapf.wiki/SoSe16 AK Ver\xF6ffentlichung von Drittmittelergebnissen"
 - name: "AK Ver\xF6ffentlichung von Nullergebnissen"
   responsible: Martin/Opa (FUB/Alter Sack), Jan (FUB)
   room: ' '
-  slotid: AK2
+  slotid: AK4
   url: "https://zapf.wiki/SoSe16 AK Ver\xF6ffentlichung von Nullergebnissen"
 - name: "AK Verschulung au\xDFerhalb des Bologna-Prozesses"
   responsible: Mascha (TU Berlin), Martin/Opa (FUB/Alter Sack)
   room: ' '
-  slotid: AK7
+  slotid: AK2
   url: https://zapf.wiki/SoSe16_AK_Verschulung
 - name: AK Was findet die ZaPF gut an Akkreditierung?
   responsible: "Bj\xF6rn (RWTH), Margret (<s>LMU</s>FFM)"
   room: ' '
-  slotid: BAK1
+  slotid: AK4
   url: https://zapf.wiki/SoSe16_AK_Was_findet_die_ZaPF_gut_an_Akkreditierung
 - name: AK Wissenschaftszeitvertragsgesetz (Nachfolge-AK)
   responsible: "J\xF6rg (FUB), Jan (FUB)"
   room: ' '
-  slotid: AK2
+  slotid: BAK1
   url: https://zapf.wiki/SoSe16_AK_Wissenschaftszeitvertragsgesetz
 - name: AK ZaPF-IT / TOPF-Arbeit
   responsible: "J\xF6rg (FUB), Fabs (TUB)"
   room: ' '
-  slotid: AK6
+  slotid: AK7
   url: https://zapf.wiki/SoSe16_AK_IT
 - name: AK Ziel-Institutionen
   responsible: "Tobi (D\xFCsseldorf)"
@@ -193,17 +203,17 @@
 - name: "AK Zukunft der ZaPFen - Konkrete Probleml\xF6sungen "
   responsible: "Kathii (FFM), Tobi (D\xFCsseldorf)"
   room: ' '
-  slotid: AK6
+  slotid: BAK2
   url: https://zapf.wiki/SoSe16_AK_Zukunft_der_ZaPFen
 - name: AK AK-Gestaltung
   responsible: Marius (DD)
   room: ' '
-  slotid: AK6
+  slotid: AK3
   url: https://zapf.wiki/SoSe16_AK_AK_Gestaltung
 - name: ' Mitgliederversammlung ZaPF e.V.'
   responsible: "Zo\xEB (FFM), Floh (FFM)"
   room: ' '
-  slotid: AK5
+  slotid: AK7
   url: https://zapf.wiki/SoSe16_AK_Mitgliederversammlung ZaPF e.V.
 - name: AK Programmierkenntnisse im Physikstudium
   responsible: Fabs (TUB)
@@ -213,12 +223,12 @@
 - name: AK zur Vernetzung der Zapf mit Doktorandenvertretungen
   responsible: Philipp(FFM /Helmholtz-juniors), Fredi (HH)
   room: ' '
-  slotid: AK2
+  slotid: BAK2
   url: https://zapf.wiki/SoSe16_AK_Doktorandenvernetzung
 - name: Akkreditierungsworkshop
   responsible: "Bj\xF6rn (RWTH), Margret (<s>LMU</s>FFM),  Kathii (FFM)"
   room: ' '
-  slotid: AK3
+  slotid: AK7
   url: https://zapf.wiki/SoSe16_WS_Akkreditierung
 - name: Git Workshop
   responsible: "Bj\xF6rn (RWTH), J\xF6rg (FUB)"
@@ -228,22 +238,22 @@
 - name: GO-Schlacht
   responsible: "Bj\xF6rn (RWTH), J\xF6rg (FUB)"
   room: ' '
-  slotid: AK6
+  slotid: AK1
   url: https://zapf.wiki/SoSe16_WS_GO-Schlacht
 - name: Gremienworkshop
   responsible: Tobi (D)
   room: ' '
-  slotid: AK2
+  slotid: AK1
   url: https://zapf.wiki/SoSe16_AK_Gremienworkshop
 - name: Krypto Workshop
   responsible: "Bj\xF6rn (RWTH), J\xF6rg (FUB)"
   room: ' '
-  slotid: AK3
+  slotid: AK2
   url: https://zapf.wiki/SoSe16_WS_Krypto
 - name: LineDance Workshop
   responsible: Karola (Potsdam)
   room: ' '
-  slotid: AK7
+  slotid: BAK2
   url: https://zapf.wiki/SoSe16_AK_LineDance_Workshop
 - name: "Enten n\xE4hen"
   responsible: Lina (Siegen)
@@ -253,10 +263,15 @@
 - name: Workshop VEUK - How to Alumni
   responsible: BuFaTa Philosophie
   room: ' '
-  slotid: AK2
+  slotid: AK7
   url: https://zapf.wiki/SoSe16_Workshop_VEUK_How_to_Alumni
+- name: "Anf\xE4nger-Tanzkurs"
+  responsible: Philipp (Konstanz)
+  room: ' '
+  slotid: AK4
+  url: https://zapf.wiki/SoSe16_Workshop_Tanzkurs
 - name: AK Ingress Field Art
   responsible: Wolle (Alter Sack)
   room: ' Innenstadt '
-  slotid: AK2
+  slotid: AK4
   url: https://zapf.wiki/SoSe16_AK_Ingress_Field_art
